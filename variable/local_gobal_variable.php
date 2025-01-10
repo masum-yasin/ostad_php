@@ -2,6 +2,15 @@
 $name = "Golam Rabbil";
 $age = 60;
 $address = "Maymansing";
+$isBangladesh = true;
+$weight= 65.5;
+$country = array('India', "canada", "pakistan");
+
+function myFunc3(){
+    global $country;
+    print_r($country)."<br>";
+};
+myFunc3();
 
 // Global Variable;
 function myfun(){
@@ -15,4 +24,6 @@ function myfun2(){
     echo $name;
 }
 myfun2();
+
+
 ?>
