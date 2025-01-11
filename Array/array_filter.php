@@ -1,16 +1,29 @@
 <?php
-// akti array thake je value filter kore ana jye.
-$numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
-function even($n){
-    return $n % 2 ==0;
-}
-$filter = array_filter($numbers, 'even');
-// print_r($filter)."\n";
-function odd($m){
-    return $m % 2 !==0;
-}
-$odd_filter =array_filter($numbers, 'odd');
-print_r($odd_filter); 
+// $numbers = [1,2,3,4,6,7,9,10,20,30,35];
+
+// function number($number){
+// return $number % 2===0;
+
+// }
+// $output = array_filter($numbers, 'number');
+
+// print_r($output);
+
+// $students = [
+//     'Tasmia' =>['age'=>10, 'gender' => 'f'],
+//     "Roksana" => ['age' => 78, 'gender' =>'f'] ,
+//     'sohel' => ['age' => 23, 'gender' => 'm'],
+//     'sazzed' => ['age' => 20, 'gender' => 'm'],
+//     'kamrul' => ['age' => 60, 'gender' => 'm'],
+
+// ];
+// function student($student){
+// return $student['gender'] == 'm';
+// }
+
+// $result = array_filter($students, 'student');
+// print_r($result);
+
 
 
 ?>
