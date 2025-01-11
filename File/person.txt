@@ -1,0 +1,4 @@
+{"name":"Mashum Hossain","age":30,"gender":"Male","email":"mashum@example.com","phone":"+8801234567890","skills":["PHP","JavaScript","HTML","CSS","Laravel"]}
+{"name":"Mashum Hossain","age":30,"gender":"Male","email":"mashum@example.com","phone":"+8801234567890","skills":["PHP","JavaScript","HTML","CSS","Laravel"]}
+{"name":"Mashum Hossain","age":30,"gender":"Male","email":"mashum@example.com","phone":"+8801234567890","skills":["PHP","JavaScript","HTML","CSS","Laravel"]}
+{"name":"Mashum Hossain","age":30,"gender":"Male","email":"mashum@example.com","phone":"+8801234567890","skills":["PHP","JavaScript","HTML","CSS","Laravel"]}
